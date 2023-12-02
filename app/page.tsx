@@ -38,9 +38,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Docs11 <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Docs for employer Review documentation for Amplify's code-first DX (Gen 2).</p>
         </a>
 
         <a
@@ -50,11 +50,16 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            Quickstart with storage <span>-&gt;</span>
           </h2>
           <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
         </a>
-
+        <a href="/MSK1299479_5_Dopolnitelnoye_soglasheniye.pdf">
+        <h2>
+                   Our best hope <span>-&gt;</span>
+                  </h2>
+         <p>Super doc</p>
+        </a>
         <a
           href="https://docs.amplify.aws/gen2/build-a-backend/auth/set-up-auth/"
           className={styles.card}
