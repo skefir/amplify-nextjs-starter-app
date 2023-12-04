@@ -40,7 +40,7 @@ export default function Home() {
           <h2>
             Docs11 <span>-&gt;</span>
           </h2>
-          <p>Docs for employer Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Docs for employer.</p>
         </a>
 
         <a
@@ -50,11 +50,11 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart with storage <span>-&gt;</span>
+            Entrer Id documents <span>-&gt;</span>
           </h2>
           <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
         </a>
-        <a href="/MSK1299479_5_Dopolnitelnoye_soglasheniye.pdf">
+        <a href="/help">
         <h2>
                    Our best hope <span>-&gt;</span>
                   </h2>
